@@ -26,7 +26,7 @@ public class RobotContainer {
 
     configureButtonBindings(); //CONFIGURE BINDINGS
 
-    ///CONFIGURE DEFAULT COMMANDS
+    //CONFIGURE DEFAULT COMMANDS
     drivetrain.setDefaultCommand(
 
         //LEFT STICK IS TRANSLATION RIGHT STICK IS TURNING
